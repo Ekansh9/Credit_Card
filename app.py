@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.set_page_config(page_title="eBay Risk Gateway (Corrected Balance)", layout="wide")
+st.set_page_config(page_title="Risk Gateway (Corrected Balance)", layout="wide")
 
 st.title("Credit Card Fraud Detection")
 st.caption("Ekansh Kumar Rajpoot")
